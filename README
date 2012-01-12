@@ -1,0 +1,15 @@
+TaskGraph to TimedAutomata 
+
+This project converts TaskGraph definitions written in the 
+Standard Task Graph Set (STG) format 
+(http://www.kasahara.elec.waseda.ac.jp/schedule/) and converts them into 
+UPPAAL timed automata (www.uppaal.org).
+
+Dependencys:
+
+The code uses the Timed Automata Libary distributed together with TAPAAL 
+(www.tapaal.net) for generation of UPPAAL XML files. 
+
+Questions and Comments:
+
+Please email me at kenneth@yrke.dk, and I will try to respond to your email. 
